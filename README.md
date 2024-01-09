@@ -48,7 +48,7 @@ Optional: what is the difference if one considers also the refractory dynamics?
 
  Play with the Hopfield network code. Understand the code, and play with it. Generate some output (e.g. retrieve the memory input from the Hopfield network).
 
-Homework 7
+### Homework 7
 
 Choose one of the examples on feedback loop (can be either negative positive) and simulate it. Try to combine two feedback loop (or simulating the genetic network shown in class or creating one yourself), simulate it and describe in few sentences the results of the simulations.
 
