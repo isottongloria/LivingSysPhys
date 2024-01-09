@@ -13,7 +13,7 @@ In this repository, you will find the completed weekly exercises for the course 
 
 ### Homework 2
 
-Plot both SAR and EAR as a function of the relative area, using the Log Series as the SAD distribution P( n ) = c (1-m)^n / n (c is the normalization constant - see Eq. 3.29). and compare it with a Power Law SAR of exponent z=0.25 (S(a)=k A^z) and k tuned so the be as close as possible to the solution for the random placement case. 
+Plot both SAR and EAR as a function of the relative area, using the Log Series as the SAD distribution $P( n ) = c (1-m)^n / n$ (c is the normalization constant - see Eq. 3.29). and compare it with a Power Law SAR of exponent z=0.25 $(S(a)=k A^z)$ and k tuned so the be as close as possible to the solution for the random placement case. 
 
 ### Homework 3
 
